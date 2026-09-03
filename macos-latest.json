@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "version": "1.0.0.13",
+  "tag": "macos-v1.0.0.13",
+  "release_url": "https://github.com/VanChapel/DiverseAgent-Releases/releases/tag/macos-v1.0.0.13",
+  "assets": {
+    "arm64": {
+      "pkg": {
+        "name": "DiverseAgent-macOS-arm64.pkg",
+        "url": "https://github.com/VanChapel/DiverseAgent-Releases/releases/download/macos-v1.0.0.13/DiverseAgent-macOS-arm64.pkg",
+        "sha256": "b2bb6d45a59d06ae4b7b2d533d75b3de00607d9797a90b9663fe8ff694b24ec7",
+        "size": 31356531
+      },
+      "ota": {
+        "name": "DiverseAgent-macOS-arm64.zip",
+        "url": "https://github.com/VanChapel/DiverseAgent-Releases/releases/download/macos-v1.0.0.13/DiverseAgent-macOS-arm64.zip",
+        "sha256": "620908af7a65bba337102c55d16b24f9b563115208a0e482585d8f667be4ca47",
+        "size": 33246435
+      }
+    },
+    "x64": {
+      "pkg": {
+        "name": "DiverseAgent-macOS-x64.pkg",
+        "url": "https://github.com/VanChapel/DiverseAgent-Releases/releases/download/macos-v1.0.0.13/DiverseAgent-macOS-x64.pkg",
+        "sha256": "3ef2d662ed0311c63d195fd70a1c638a9f27f8ddb4bb10f16997d8b2ddbe1ad9",
+        "size": 29162297
+      },
+      "ota": {
+        "name": "DiverseAgent-macOS-x64.zip",
+        "url": "https://github.com/VanChapel/DiverseAgent-Releases/releases/download/macos-v1.0.0.13/DiverseAgent-macOS-x64.zip",
+        "sha256": "ae170eec17d7549d168f7feef112cc8ff8ffe6ad44a433e9515e6c03d24e5d9f",
+        "size": 31062815
+      }
+    }
+  }
+}
